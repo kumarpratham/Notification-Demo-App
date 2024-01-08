@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Notification Push Demo</string>
+    <string name="tv1">Notification Demo App</string>
 </resources>
